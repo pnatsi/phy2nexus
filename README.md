@@ -20,7 +20,7 @@ This will create two files. A PAUP* script named `convert_to_nexus.paup` and `al
 The `alignment.phy.interleaved.nexus` is ready to use in MrBayes or RevBayes (Höhna et al., 2016).
 <br>
 <br>
-**Warning! The default DataType is RestSite (alignments with 1's and 0's). If you are using amino acid or nucleotide alignments change RestSite to Protein or Nucleotide respectively**
+**Warning! The default DataType is Protein. If you are using nucleotide or binary character (alignments with 1's and 0's) alignments change Protein to Nucleotide or RestSite respectively**
 <br> 
 <br>
 Who <br>
