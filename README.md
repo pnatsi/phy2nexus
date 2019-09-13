@@ -24,11 +24,12 @@ The `alignment.phy.interleaved.nexus` is ready to use in MrBayes.
 <br> 
 <br>
 Who <br>
-Paschalis Natsidis, PhD candidate (p.natsidis@ucl.ac.uk); 
-<br>
+Paschalis Natsidis, <br>
+PhD candidate (p.natsidis@ucl.ac.uk); 
+<br><br>
 Where <br>
 Telford Lab, UCL;
 ITN IGNITE; 
-<br>
+<br><br>
 When <br>
 September 2019;
