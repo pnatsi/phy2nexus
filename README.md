@@ -16,7 +16,7 @@ The `phy2nexus.sh` script can be used as this:
 ```
 
 This will create two files. A PAUP* script named `convert_to_nexus.paup` and `alignment.phy.interleaved.nexus`, which is the result of executing `convert_to_nexus.paup` by PAUP*.
-2003
+<br>
 The `alignment.phy.interleaved.nexus` is ready to use in MrBayes or RevBayes (Höhna et al., 2016).
 <br>
 <br>
