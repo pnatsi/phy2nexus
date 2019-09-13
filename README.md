@@ -28,7 +28,7 @@ Paschalis Natsidis, <br>
 PhD candidate (p.natsidis@ucl.ac.uk); 
 <br><br>
 Where <br>
-Telford Lab, UCL;
+Telford Lab, UCL; <br>
 ITN IGNITE; 
 <br><br>
 When <br>
