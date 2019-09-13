@@ -18,15 +18,17 @@ The `phy2nexus.sh` script can be used as this:
 This will create two files. A PAUP* script named `convert_to_nexus.paup` and `alignment.phy.interleaved.nexus`, which is the result of executing `convert_to_nexus.paup` by PAUP*.
 
 The `alignment.phy.interleaved.nexus` is ready to use in MrBayes.
-
+<br>
+<br>
 **Warning! The default DataType is RestSite (alignments with 1's and 0's). If you are using amino acid or nucleotide alignments change RestSite to Protein or Nucleotide respectively**
-
-Who
+<br> 
+<br>
+Who <br>
 Paschalis Natsidis, PhD candidate (p.natsidis@ucl.ac.uk); 
-
-Where
+<br>
+Where <br>
 Telford Lab, UCL;
 ITN IGNITE; 
-
-When
+<br>
+When <br>
 September 2019;
